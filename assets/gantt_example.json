@@ -1,0 +1,83 @@
+{
+  "title": "Work Plan & Timeline",
+  "subtitle": "A thirty-five-month research programme in catalytic sulfur ylides",
+  "footer_left": "Duration shown in months; overlapping packages support continuous integration between computation and experiment.",
+  "footer_right": "January 2028 – December 2030",
+  "ticks": [
+    {
+      "index": 0,
+      "label": "01/2028"
+    },
+    {
+      "index": 6,
+      "label": "07/2028"
+    },
+    {
+      "index": 12,
+      "label": "01/2029"
+    },
+    {
+      "index": 18,
+      "label": "07/2029"
+    },
+    {
+      "index": 24,
+      "label": "01/2030"
+    },
+    {
+      "index": 30,
+      "label": "07/2030"
+    },
+    {
+      "index": 35,
+      "label": "12/2030"
+    }
+  ],
+  "bands": [
+    {
+      "start": 0,
+      "end": 12,
+      "label": "2028"
+    },
+    {
+      "start": 12,
+      "end": 24,
+      "label": "2029"
+    },
+    {
+      "start": 24,
+      "end": 35,
+      "label": "2030"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "WP1",
+      "name": "DFT, QSAR, ML and validation of\ninversion barriers of sulfur ylides",
+      "start": 0,
+      "end": 24,
+      "duration": "24 mo"
+    },
+    {
+      "id": "WP2",
+      "name": "Exploration/optimization of\ncatalytic ylide synthesis",
+      "start": 6,
+      "end": 30,
+      "duration": "24 mo"
+    },
+    {
+      "id": "WP3",
+      "name": "Ylide reactivity study and\nchirality transfer reactions",
+      "start": 12,
+      "end": 35,
+      "duration": "23 mo"
+    },
+    {
+      "id": "WP4",
+      "name": "Substrate scope and\nsynthetic applications",
+      "start": 18,
+      "end": 35,
+      "duration": "17 mo"
+    }
+  ]
+}
